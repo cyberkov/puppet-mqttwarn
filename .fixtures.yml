@@ -1,0 +1,7 @@
+fixtures:
+  symlinks:
+    mqttwarn: "#{source_dir}"
+  forge_modules:
+    stdlib: "puppetlabs/stdlib"
+    vcsrepo: "puppetlabs/vcsrepo"
+    git: "puppetlabs/git"
